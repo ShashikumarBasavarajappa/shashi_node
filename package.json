@@ -1,0 +1,33 @@
+{
+  "name": "edureka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "errorhandler": "^1.5.0",
+    "express": "^4.15.3",
+    "express-session": "^1.15.5",
+    "jade": "^1.11.0",
+    "json": "^9.0.6",
+    "logger": "0.0.1",
+    "method-override": "^2.3.9",
+    "nano": "^6.4.0",
+    "serve-favicon": "^2.4.3",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashikumarBasavarajappa/shashi_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShashikumarBasavarajappa/shashi_node/issues"
+  },
+  "homepage": "https://github.com/ShashikumarBasavarajappa/shashi_node#readme"
+}
